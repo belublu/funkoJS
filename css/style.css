@@ -129,6 +129,7 @@ nav{
     font-size: 22px !important;
 }
 
+
 .form-control{
     border-radius: 17px !important;
     height: 40px !important;
@@ -248,6 +249,23 @@ iframe{
 #logoDiscord{
     width: 200px;
     height: 200px;  
+}
+
+
+/* MAIN CONTACTO */
+
+.form-control {
+    border-radius: 0px !important;
+}
+
+textarea.form-control{
+    height: 180px !important;
+}
+
+.btn-primary{
+    font-family: "armata" !important;
+    font-size: 20px !important;
+    --bs-btn-bg: #1895cf;
 }
 
 /* FOOTER */
