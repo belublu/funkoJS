@@ -226,8 +226,6 @@ iframe{
     animation-duration: 1s;
 }
 
-
-
 @keyframes animTeleg {
     from{
         transform: translate(0) scale(0);
@@ -251,6 +249,16 @@ iframe{
     height: 200px;  
 }
 
+
+/* MAIN TIENDA */
+
+.list-group{
+    --bs-list-group-border-color: #9abfe3 !important;
+}
+
+.list-group-item{
+    font-size: x-large !important;
+}
 
 /* MAIN CONTACTO */
 
@@ -278,4 +286,3 @@ footer{
     font-size: 25px;
     font-weight: bold;
 }
-
